@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database artikel</title>
+    <description></description>
+    <link>https://gaohaoyang.github.io/</link>
+    <atom:link href="https://gaohaoyang.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 20 Feb 2021 04:10:34 +0700</pubDate>
+    <lastBuildDate>Sat, 20 Feb 2021 04:10:34 +0700</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+  </channel>
+</rss>
