@@ -30,7 +30,7 @@ disqus_shortname: databaseartikel
 
 # statistic analysis 
 baidu_tongji_id: 
-google_analytics_id: UA-xxxx-4 # google 
+google_analytics_id: G-CTD0C07BWH # google 
 
 # Build settings
 markdown: kramdown
