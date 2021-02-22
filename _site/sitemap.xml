@@ -59,6 +59,20 @@
     </url>
     
     <url>
+        <loc>/page2/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/page3/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/css/main.css.map</loc>
         <lastmod>2021-02-22</lastmod>
         <changefreq>daily</changefreq>
@@ -66,6 +80,181 @@
     </url>
     
 
+    
+    <url>
+        <loc>/2021/02/22/tips-for-stopping-spraying/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/tips-for-introducing-cats/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/things-to-know-before-breeding-your-cat/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/things-to-know-about-abused-cats/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/the-cruelty-of-claw-removal/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/the-cat-whisperer/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/the-amazing-cat-species/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/taking-care-of-cats/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/litter-cleaning-for-cats/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/helping-your-cat-stay-healthy/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/keeping-cats-out-of-your-garden/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/heartworm-treatment-for-cats/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/grooming-your-cat/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/great-gifts-for-cat-lovers/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/giving-your-cat-a-pill/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/dealing-with-cat-allergies/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/curing-bad-cat-breath/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/common-meanings-of-cat-behavior/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/common-health-problems-of-cats/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/cats-bonding-with-their-owners/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/cats-and-ring-worm/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/cats-and-feline-diabetes/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/caring-for-persian-cats/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/an-in-depth-look-at-siamese-cats/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/2021/02/22/a-look-at-cat-breeds/</loc>
+        <lastmod>2021-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
     
 
 </urlset>
