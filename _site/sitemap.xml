@@ -1,260 +1,217 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
-    <url>
-        <loc>/archive/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/category/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/tag/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/about/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/feed.xml</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/css/main.css</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/sitemap.xml</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/page2/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/page3/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/css/main.css.map</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-
-    
-    <url>
-        <loc>/2021/02/22/tips-for-stopping-spraying/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/tips-for-introducing-cats/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/things-to-know-before-breeding-your-cat/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/things-to-know-about-abused-cats/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/the-cruelty-of-claw-removal/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/the-cat-whisperer/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/the-amazing-cat-species/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/taking-care-of-cats/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/litter-cleaning-for-cats/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/helping-your-cat-stay-healthy/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/keeping-cats-out-of-your-garden/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/heartworm-treatment-for-cats/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/grooming-your-cat/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/great-gifts-for-cat-lovers/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/giving-your-cat-a-pill/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/dealing-with-cat-allergies/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/curing-bad-cat-breath/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/common-meanings-of-cat-behavior/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/common-health-problems-of-cats/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/cats-bonding-with-their-owners/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/cats-and-ring-worm/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/cats-and-feline-diabetes/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/caring-for-persian-cats/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/an-in-depth-look-at-siamese-cats/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/02/22/a-look-at-cat-breeds/</loc>
-        <lastmod>2021-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>https://databaseartikel.github.io//archive/</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://databaseartikel.github.io//category/</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://databaseartikel.github.io//tag/</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://databaseartikel.github.io//about/</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://databaseartikel.github.io//</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://databaseartikel.github.io//css/main.css</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://databaseartikel.github.io//page2/</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://databaseartikel.github.io//page3/</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/tips-for-stopping-spraying/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/tips-for-introducing-cats/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/things-to-know-before-breeding-your-cat/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/things-to-know-about-abused-cats/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/the-cruelty-of-claw-removal/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/the-cat-whisperer/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/the-amazing-cat-species/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/taking-care-of-cats/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/litter-cleaning-for-cats/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/helping-your-cat-stay-healthy/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/keeping-cats-out-of-your-garden/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/heartworm-treatment-for-cats/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/grooming-your-cat/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/great-gifts-for-cat-lovers/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/giving-your-cat-a-pill/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/dealing-with-cat-allergies/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/curing-bad-cat-breath/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/common-meanings-of-cat-behavior/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/common-health-problems-of-cats/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/cats-bonding-with-their-owners/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/cats-and-ring-worm/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/cats-and-feline-diabetes/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/caring-for-persian-cats/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/an-in-depth-look-at-siamese-cats/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>
+https://databaseartikel.github.io//2021/02/22/a-look-at-cat-breeds/
+</loc>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
 </urlset>
